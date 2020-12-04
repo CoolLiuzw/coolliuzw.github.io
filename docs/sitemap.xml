@@ -1,90 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
-            <loc>https://coolliuzw.work/</loc>
-            
-                <lastmod>2019-12-18T20:52:13+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://coolliuzw.work/posts/</loc>
-            
-                <lastmod>2019-12-18T20:52:13+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://coolliuzw.work/2019/12/fluent-to-windows/</loc>
-            
-                <lastmod>2019-12-18T20:52:13+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://coolliuzw.work/tags/</loc>
-            
-                <lastmod>2019-12-15T15:51:06+00:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://coolliuzw.work/tags/test/</loc>
-            
-                <lastmod>2019-12-15T15:51:06+00:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://coolliuzw.work/2019/12/blog-test/</loc>
-            
-                <lastmod>2019-12-15T15:51:06+00:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
             <loc>https://coolliuzw.work/tips/</loc>
             
                 <lastmod>2019-12-18T20:52:13+08:00</lastmod>
@@ -100,6 +16,30 @@
     
         <url>
             <loc>https://coolliuzw.work/categories/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://coolliuzw.work/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://coolliuzw.work/tags/</loc>
             
             
                 <changefreq>weekly</changefreq>
