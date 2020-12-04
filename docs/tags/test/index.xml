@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Coolliuzw Blog</title>
+    <link>https://coolliuzw.work/tags/test/</link>
+    <description>Recent content in test on Coolliuzw Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 15 Dec 2019 15:51:06 +0000</lastBuildDate><atom:link href="https://coolliuzw.work/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>构建我的Blog并测试</title>
+      <link>https://coolliuzw.work/2019/12/blog-test/</link>
+      <pubDate>Sun, 15 Dec 2019 15:51:06 +0000</pubDate>
+      
+      <guid>https://coolliuzw.work/2019/12/blog-test/</guid>
+      <description>测试博客编写 go demo 1 2 3 4 5 6 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;hello world&amp;#34;) }</description>
+    </item>
+    
+  </channel>
+</rss>
