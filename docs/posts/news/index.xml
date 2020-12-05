@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Me Blog Test on CoolLiuzw</title>
+    <link>https://coolliuzw.work/posts/news/</link>
+    <description>Recent content in Me Blog Test on CoolLiuzw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Dec 2020 18:30:48 +0800</lastBuildDate><atom:link href="https://coolliuzw.work/posts/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test blog</title>
+      <link>https://coolliuzw.work/2020/http2-server-push-in-hugo/</link>
+      <pubDate>Sat, 05 Dec 2020 18:30:48 +0800</pubDate>
+      
+      <guid>https://coolliuzw.work/2020/http2-server-push-in-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

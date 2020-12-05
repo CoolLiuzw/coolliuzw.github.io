@@ -54,6 +54,8 @@ Disallow: /
 # Block pricepi
 User-agent: pimonster
 Disallow: /
+User-agent: Pimonster
+Disallow: /
 
 User-agent: SurdotlyBot
 Disallow: /
