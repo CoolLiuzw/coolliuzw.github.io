@@ -6,7 +6,17 @@
     <description>Recent content in blog on CoolLiuzw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 06 Dec 2020 11:28:25 +0800</lastBuildDate><atom:link href="https://coolliuzw.work/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 13:33:21 +0800</lastBuildDate><atom:link href="https://coolliuzw.work/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>修改LeaveIt中的行内code样式</title>
+      <link>https://coolliuzw.work/2020/code-csdn/</link>
+      <pubDate>Sun, 06 Dec 2020 13:33:21 +0800</pubDate>
+      
+      <guid>https://coolliuzw.work/2020/code-csdn/</guid>
+      <description>修改目的  修改之前的Leave It主题的行内代码样式.  正式动手 首先去作者对主题的介绍中看看有没有提到自定义样式，很棒的是作者提到了代码高亮的问题，很好，这就是成功第一步了。 修改 assts/css/_page/post.scss 中 code:not([class]) 的样式代码：
+/* 原来的代码 */ code:not([class]) { padding: 5px 5px; background: #fff; border: 1px solid #ddd; box-shadow: 1px 1px 0 #fff, 2px 2px 0 #ddd; margin-left: 3px; margin-right: 3px; .dark-theme &amp;amp;:not([class]) { background: transparent; box-shadow: 1px 1px 0 $dark-font-secondary-color, 2px 2px 0 $dark-font-secondary-color; } } /* 修改成自己想要的样式 */ code:not([class]) { padding: 2px 4px; background: #f9f2f4; color: #ef3982; border-radius: 2px; margin-left: 3px; margin-right: 3px; .</description>
+    </item>
+    
     <item>
       <title>静态博客添加访问统计功能</title>
       <link>https://coolliuzw.work/2020/busuanzi/</link>
