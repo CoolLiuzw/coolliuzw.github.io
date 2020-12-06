@@ -46,7 +46,7 @@
     "articleSection" : "posts",
     "name" : "[blog] 静态博客添加访问统计功能",
     "headline" : "[blog] 静态博客添加访问统计功能",
-    "description" : "准备工作 简介 目前越来越多的的人选择使用静态博客，例如Hexo、Hugo、等等，静态博客有更加轻量，便于管理，更加安全等诸多的优点。因为本服务在使用github pages部署的，这时候不需要自己后台的网页计数器就开始显示的有必要的。\n工具准备  不蒜子 - 极简网页计数器 优缺点：  优点：使用非常的方便 缺点：无法对访问的数据做统计和分析，不过做为静态博客起初可以不关注    使用方法 Step1 引入js文件，原理的话就显而易见了，每次页面打开都会向js文件地址发送一次请求，因此，这里你要在所有你要计数的地方引入一遍；我这里推荐将其放到博客的footer里。（其实这里是借用了人家的后台，不过，既然能方便我们，嘿嘿…）\n\u0026lt;script async src=\u0026#34;\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js\u0026#34;\u0026gt;\u0026lt;\/script\u0026gt; Step2 添加相应代码（两层span，要是想美化什么的啦，自行研究吧）\n\u0026lt;span id=\u0026#34;busuanzi_container_site_pv\u0026#34;\u0026gt; 本站总访问量\u0026lt;span id=\u0026#34;busuanzi_value_site_pv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;次\u0026lt;\/span\u0026gt;\u0026lt;span id=\u0026#34;busuanzi_container_site_uv\u0026#34;\u0026gt; 本站访客数\u0026lt;span id=\u0026#34;busuanzi_value_site_uv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;人次\u0026lt;\/span\u0026gt;\u0026lt;span id=\u0026#34;busuanzi_container_page_pv\u0026#34;\u0026gt; 本文总阅读量\u0026lt;span id=\u0026#34;busuanzi_value_page_pv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;次\u0026lt;\/span\u0026gt; 完成  完结 文章的最底下，本文总阅读量就是啦  ",
+    "description" : " 准备工作  简介 工具准备   使用方法  Step1 Step2   完成  准备工作 简介 目前越来越多的的人选择使用静态博客，例如Hexo、Hugo、等等，静态博客有更加轻量，便于管理，更加安全等诸多的优点。因为本服务在使用github pages部署的，这时候不需要自己后台的网页计数器就开始显示的有必要的。\n工具准备  不蒜子 - 极简网页计数器 优缺点：  优点：使用非常的方便 缺点：无法对访问的数据做统计和分析，不过做为静态博客起初可以不关注    使用方法 Step1 引入js文件，原理的话就显而易见了，每次页面打开都会向js文件地址发送一次请求，因此，这里你要在所有你要计数的地方引入一遍；我这里推荐将其放到博客的footer里。（其实这里是借用了人家的后台，不过，既然能方便我们，嘿嘿…）\n\u0026lt;script async src=\u0026#34;\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js\u0026#34;\u0026gt;\u0026lt;\/script\u0026gt; Step2 添加相应代码（两层span，要是想美化什么的啦，自行研究吧）\n\u0026lt;span id=\u0026#34;busuanzi_container_site_pv\u0026#34;\u0026gt; 本站总访问量\u0026lt;span id=\u0026#34;busuanzi_value_site_pv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;次\u0026lt;\/span\u0026gt;\u0026lt;span id=\u0026#34;busuanzi_container_site_uv\u0026#34;\u0026gt; 本站访客数\u0026lt;span id=\u0026#34;busuanzi_value_site_uv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;人次\u0026lt;\/span\u0026gt;\u0026lt;span id=\u0026#34;busuanzi_container_page_pv\u0026#34;\u0026gt; 本文总阅读量\u0026lt;span id=\u0026#34;busuanzi_value_page_pv\u0026#34;\u0026gt;\u0026lt;\/span\u0026gt;次\u0026lt;\/span\u0026gt; 完成  完结 文章的最底下，本文总阅读量就是啦  ",
     "inLanguage" : "zh-cn",
     "author" : "coolliuzw",
     "creator" : "coolliuzw",
@@ -57,7 +57,7 @@
     "datePublished": "2020-12-06 11:28:25 \u002b0800 CST",
     "dateModified" : "2020-12-06 11:28:25 \u002b0800 CST",
     "url" : "https:\/\/coolliuzw.work\/2020\/busuanzi\/",
-    "wordCount" : "32",
+    "wordCount" : "39",
     "keywords" : [ "blog", "CoolLiuzw"]
 }
 </script>
@@ -144,7 +144,22 @@
           
           
 
-          <h2 id="准备工作">准备工作</h2>
+          <ul>
+<li><a href="#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C">准备工作</a>
+<ul>
+<li><a href="#%E7%AE%80%E4%BB%8B">简介</a></li>
+<li><a href="#%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87">工具准备</a></li>
+</ul>
+</li>
+<li><a href="#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95">使用方法</a>
+<ul>
+<li><a href="#step1">Step1</a></li>
+<li><a href="#step2">Step2</a></li>
+</ul>
+</li>
+<li><a href="#%E5%AE%8C%E6%88%90">完成</a></li>
+</ul>
+<h2 id="准备工作">准备工作</h2>
 <h3 id="简介">简介</h3>
 <p>目前越来越多的的人选择使用静态博客，例如Hexo、Hugo、等等，静态博客有更加轻量，便于管理，更加安全等诸多的优点。因为本服务在使用github pages部署的，这时候不需要自己后台的网页计数器就开始显示的有必要的。</p>
 <h3 id="工具准备">工具准备</h3>

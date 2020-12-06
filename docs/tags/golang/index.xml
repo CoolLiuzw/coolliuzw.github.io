@@ -13,9 +13,13 @@
       <pubDate>Sun, 06 Dec 2020 18:13:38 +0800</pubDate>
       
       <guid>https://coolliuzw.work/2020/gocheck/</guid>
-      <description>官方网站  简介  go语言单元测试框架，解决go语言自带的测试框架go test相关不足的。  特点  详细看官方描述，如果有学习过c语言的话，有点类似c语言中的CUnit的测试框架结构，CUnit官方  实战 安装 go get -u gopkg.in/check.v1
+      <description>简介
+  特点
+  实战
+ 安装 使用  API 文档 官方demo 相关知识点说明  特殊的函数   测试  基准测试 跳过测试 Assert and Check 选择要运行的测试 详细模式     总结    官方网站
+  简介  go语言单元测试框架，解决go语言自带的测试框架go test相关不足的。  特点  详细看官方描述，如果有学习过c语言的话，有点类似c语言中的CUnit的测试框架结构，CUnit官方  实战 安装 go get -u gopkg.in/check.v1
 使用 API 文档 gocheck 检查包的 API文档可在线获得:
- https://gopkg.in/check.v1  官方demo package calc import ( &amp;#34;io&amp;#34; &amp;#34;testing&amp;#34; . &amp;#34;gopkg.in/check.v1&amp;#34; ) // Hook up go check into the &amp;#34;go test&amp;#34; runner. func Test(t *testing.T) { TestingT(t) } type MySuite struct{} var _ = Suite(&amp;amp;MySuite{}) func (s *MySuite) TestHelloWorld(c *C) { c.Assert(42, Equals, &amp;#34;42&amp;#34;) c.Assert(io.ErrClosedPipe, ErrorMatches, &amp;#34;io: .</description>
+ https://gopkg.in/check.v1  官方demo package calc import ( &amp;#34;io&amp;#34; &amp;#34;testing&amp;#34; .</description>
     </item>
     
   </channel>
