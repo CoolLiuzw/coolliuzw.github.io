@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://coolliuzw.work/categories/blog/</loc>
+      <loc>https://coolliuzw.work/tags/blog/</loc>
       
-      <lastmod>2020-12-05T18:30:48+08:00</lastmod>
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
       
       
       
@@ -12,9 +12,9 @@
     </url>
   
     <url>
-      <loc>https://coolliuzw.work/posts/news/</loc>
+      <loc>https://coolliuzw.work/categories/blog/</loc>
       
-      <lastmod>2020-12-05T18:30:48+08:00</lastmod>
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
       
       
       
@@ -24,7 +24,7 @@
     <url>
       <loc>https://coolliuzw.work/categories/</loc>
       
-      <lastmod>2020-12-05T18:30:48+08:00</lastmod>
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
       
       
       
@@ -33,6 +33,46 @@
   
     <url>
       <loc>https://coolliuzw.work/</loc>
+      
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://coolliuzw.work/posts/</loc>
+      
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://coolliuzw.work/tags/</loc>
+      
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://coolliuzw.work/2020/busuanzi/</loc>
+      
+      <lastmod>2020-12-06T11:28:25+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://coolliuzw.work/posts/news/</loc>
       
       <lastmod>2020-12-05T18:30:48+08:00</lastmod>
       
@@ -52,27 +92,9 @@
     </url>
   
     <url>
-      <loc>https://coolliuzw.work/posts/</loc>
-      
-      <lastmod>2020-12-05T18:30:48+08:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
       <loc>https://coolliuzw.work/2020/test-blog/</loc>
       
       <lastmod>2020-12-05T18:30:48+08:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://coolliuzw.work/tags/</loc>
       
       
       
